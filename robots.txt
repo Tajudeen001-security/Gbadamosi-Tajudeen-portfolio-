@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /private
+Disallow: /.git
+
+# Sitemaps
+Sitemap: https://gbadamosi-portfolio.vercel.app/sitemap.xml
+
+# Crawl delay (optional)
+Crawl-delay: 1

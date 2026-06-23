@@ -1,0 +1,22 @@
+{
+  "name": "gbadamosi-portfolio",
+  "version": "1.0.0",
+  "description": "Professional portfolio website for Gbadamosi Tajudeen Olajide - Tech Entrepreneur & Innovation Leader",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve",
+    "build": "echo 'No build step required for static site'"
+  },
+  "keywords": [
+    "portfolio",
+    "tech",
+    "entrepreneur",
+    "developer",
+    "innovation"
+  ],
+  "author": "Gbadamosi Tajudeen Olajide",
+  "license": "MIT",
+  "engines": {
+    "node": "18.x"
+  }
+}
